@@ -70,6 +70,22 @@ Run the program:
 
 ---
 
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Student Registration
+![Student Registration](screenshots/student-registration.png)
+
+### Student Login
+![Student Login](screenshots/student-login.png)
+
+### Room Allocation
+![Room Allocation](screenshots/room-allocation.png)
+
+### Display All Students
+![Display All Students](screenshots/display-all-students.png)
 ## Author
 
 **Kirthika Alamelu N**
